@@ -2,9 +2,9 @@
 
 🚀 **Senior AI Engineering Leader | MLOps | Scalable AI Inference | AI Strategy & Research**  
 🔹 **Ex-AWS SageMaker** – Built and scaled AI solutions impacting **100M+ users**  
-🔹 **Founder of the World's First AI Inference Marketplace for Industry Models (Vipas.AI)** – Hosted **5K+ models, 25K+ daily visitors**  
-🔹 **AI Researcher & Innovator** – **Patented AI inference optimization**, reducing **GPU costs by 40%**  
-🔹 **Global AI Speaker & Thought Leader** – Delivered AI talks at **20+ institutions & 10+ startup hubs**  
+🔹 **Founder of the World's First AI Inference Marketplace for Industry Models (Vipas.AI)**  
+🔹 **AI Researcher & Innovator** – **Patented AI inference optimization**, reducing **GPU costs**  
+🔹 ** AI Speaker & Thought Leader** – Delivered AI talks at ** institutions & startup hubs**  
 
 ## 📌 Summary
 Senior AI Engineering Leader with **17+ years of experience** in **scalable AI infrastructure, MLOps, and LLM inference optimization** at an **enterprise level**. Founding team member of **AWS SageMaker**, shaping **enterprise AI strategy** and leading **global teams of 50+ engineers**. Developed **mission-critical AI systems** impacting **100M+ users**. Led the creation of **Vipas.AI**, an **AI model monetization platform**, enabling **domain-specific AI models** to be deployed, scaled, and monetized seamlessly.
