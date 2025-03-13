@@ -6,8 +6,11 @@
 🔹 **AI Researcher & Innovator** – **Patented AI inference optimization**, reducing **GPU costs**  
 🔹 **AI Speaker & Thought Leader** – Delivered AI talks at **institutions & startup hubs**  
 
+
 📌 **[LinkedIn](https://linkedin.com/in/vinayjayanna)**  
+
 📌 **[Thought Leadership & AI Articles](https://www.linkedin.com/in/vinayjayanna/recent-activity/articles/)**
+
 📌 **[Portfolio & AI Projects](https://vipas.ai/user/vipas-ai)**  
 
 ## 📌 Summary
