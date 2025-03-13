@@ -1,12 +1,14 @@
 # 👋 Hi, I'm Vinay Jayanna
 
-🚀 **Senior AI Engineering Leader | MLOps | Scalable AI Inference | AI Strategy & Research**  
+🔹 **Senior AI Engineering Leader | MLOps | Scalable AI Inference | AI Strategy & Research**  
 🔹 **Ex-AWS SageMaker** – Built and scaled AI solutions impacting **100M+ users**  
 🔹 **Founder of the World's First AI Inference Marketplace for Industry Models (Vipas.AI)**  
 🔹 **AI Researcher & Innovator** – **Patented AI inference optimization**, reducing **GPU costs**  
 🔹 **AI Speaker & Thought Leader** – Delivered AI talks at **institutions & startup hubs**  
 
-📌 **LinkedIn:** linkedin.com/in/vinayjayanna  
+📌 **[LinkedIn](https://linkedin.com/in/vinayjayanna)**  
+📌 **[Thought Leadership & AI Articles](https://www.linkedin.com/in/vinayjayanna/recent-activity/articles/)**
+📌 **[Portfolio & AI Projects](https://vipas.ai/user/vipas-ai)**  
 
 ## 📌 Summary
 Senior AI Engineering Leader with **17+ years of experience** in **scalable AI infrastructure, MLOps, and LLM inference optimization** at an **enterprise level**. Founding team member of **AWS SageMaker**, shaping **enterprise AI strategy** and leading **global teams of 50+ engineers**. Developed **mission-critical AI systems** impacting **100M+ users**. Led the creation of **Vipas.AI**, an **AI model monetization platform**, enabling **domain-specific AI models** to be deployed, scaled, and monetized seamlessly.
@@ -77,9 +79,12 @@ Senior AI Engineering Leader with **17+ years of experience** in **scalable AI i
 🔹 Published AI articles on **MLOps, scalable AI inference, and AI monetization** on LinkedIn  
 🔹 Contributor to AI research in **LLM efficiency, AI-powered automation, and multi-cloud deployment**  
 
-## 📢 Let’s Connect
-📌 **LinkedIn:** linkedin.com/in/vinayjayanna  
-📌 **GitHub:** github.com/vinay-jayanna  
-📌 **Portfolio & AI Projects:** vipas.ai  
+
+## 🔗 Connect with Me
+
+📌 **[LinkedIn](https://linkedin.com/in/vinayjayanna)**  
+📌 **[GitHub](https://github.com/vinay-jayanna)**  
+📌 **[Portfolio & AI Projects](https://vipas.ai/user/vipas-ai)**  
+📌 **[Thought Leadership & AI Articles](https://www.linkedin.com/in/vinayjayanna/recent-activity/articles/)**
 
 🚀 **Looking to collaborate on AI-powered solutions? Let’s innovate together!**
