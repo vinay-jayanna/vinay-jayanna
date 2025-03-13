@@ -18,12 +18,32 @@ Senior AI Engineering Leader with **17+ years of experience** in **scalable AI i
 - 📌 **Led AI evangelism programs**, delivering **AI talks to 10K+ practitioners across 20+ education institutions**
 - 📌 **Organized large-scale AI hackathons**, with participation from **140+ colleges & 100+ cities**
 
-## 🔧 Tech Stack & Specializations
-- **AI & ML:** LLMs, GenAI, Transformers, RAG, NLP, Computer Vision, Multi-Agent Systems
-- **MLOps & AI Infrastructure:** AWS SageMaker, Bedrock, EKS, Google Cloud AI, Kubernetes, Docker
-- **Cloud & Scaling:** Hybrid/Multi-Cloud AI Deployment, Serverless AI, Distributed AI Systems
-- **Programming & Frameworks:** Python, MLflow, TensorFlow, PyTorch, FastAPI, Hugging Face, LangChain
-- **Databases & Search:** Feature Stores, Vector Databases, FAISS, ElasticSearch, OpenSearch
+## 🏆 Skills
+
+### **AI Leadership**
+- AI Strategy, Product Vision and Roadmap  
+- Ethical and Responsible AI, AI Governance  
+- Strategic Partnerships, Global Team Building  
+- Cross-Functional Alignment, Stakeholder Management  
+- Talent Development, Mentorship, Research Leadership  
+
+### **AI and Machine Learning**
+- LLMs, GenAI, RAG, NLP, Transformers, Multi-Agent Systems  
+- Recommendation Engines, Risk and Fraud Detection  
+- Time Series Forecasting, MLOps, AIOps  
+- Model Optimization (Fine-Tuning, Quantization, Distillation, Pruning, Caching)  
+
+### **Cloud and Infrastructure**
+- AWS (SageMaker, Bedrock, EKS), Google Cloud AI  
+- Kubernetes, Docker, ML Pipelines  
+- Hybrid and Multi-Cloud AI Deployment, Serverless AI  
+- Distributed AI, Model Monitoring, Explainable AI, GPU Optimization  
+
+### **Programming and Frameworks**
+- Python, MLflow, TensorFlow, PyTorch, Hugging Face  
+- Triton Inference Server, vLLM, FastAPI, Flask, LangChain  
+- Generative AI APIs (OpenAI, etc.), SQL, NoSQL  
+- Feature Stores, Vector Databases, ElasticSearch, OpenSearch, Git  
 
 ## 📜 Patents & Research
 - **Patent Pending – USPTO Application #19/055,731**  
