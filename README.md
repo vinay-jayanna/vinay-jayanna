@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vinay Jayanna
 
 🔹 **Senior AI Engineering Leader | MLOps | Scalable AI Inference | AI Strategy & Research**  
-🔹 **Ex-AWS SageMaker** – Built and scaled AI solutions impacting **100M+ users**  
+🔹 **Ex-AWS SageMaker** – Built and scaled AI Platforms impacting **100M+ users**  
 🔹 **Founder of the World's First AI Inference Marketplace for Industry Models (Vipas.AI)**  
 🔹 **AI Researcher & Innovator** – **Patented AI inference optimization**, reducing **GPU costs**  
 🔹 **AI Speaker & Thought Leader** – Delivered AI talks at **institutions & startup hubs**  
